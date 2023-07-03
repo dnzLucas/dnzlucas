@@ -2,10 +2,8 @@
 
 
 
-<div>
-<a href="https://github.com/dnzlucas">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnzlucas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+![Alt Text](https://media.tenor.com/4tcYbQ5zJlAAAAAi/minecraft-memes.gif)
+
 
 <p align="left">
 </p>
