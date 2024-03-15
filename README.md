@@ -22,8 +22,11 @@
     <img width="8" />
   <img align="center" alt="Jonatas-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img width="8" />
-  <img align="center" alt="Jonatas-CSS" height="40" width="40" src="https://vuejs.org/images/logo.png">
+    <img align="center" alt="Jonatas-CSS" height="40" width="40" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png">
     <img width="8" />
+    <img align="center" alt="Jonatas-CSS" height="40" width="40" src="https://vuejs.org/images/logo.png">
+   <img width="8" />
+  
 </div>
 
 ##
