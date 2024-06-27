@@ -1,10 +1,9 @@
 <h1 align="center" >Welcome!</h1>
 
-<div align="center">
+<div align="center"; display="flex">
   <a href="https://github.com/dnzLucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnzLucas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dnzLucas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  
 </div>
 
 
